@@ -8,7 +8,7 @@ Supports local keys, **PandaAuth**, **Platoboost**, **Jnkie**, custom validators
 ## Quick Start
 
 ```lua
-local KeySystem = loadstring(game:HttpGet("YOUR_LIBRARY_URL"))()
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/poikjgfd3/Ophyn-Space-Fix/refs/heads/main/library.luau"))()
 
 local Window = KeySystem.new({
     Title       = "My Hub",
@@ -56,7 +56,7 @@ Load the single-file bundle however you prefer:
 
 ```lua
 -- From a URL
-local KeySystem = loadstring(game:HttpGet("https://.../ophyn.lua"))()
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/poikjgfd3/Ophyn-Space-Fix/refs/heads/main/library.luau"))()
 
 -- From a ModuleScript
 local KeySystem = require(script.Ophyn)
@@ -553,7 +553,7 @@ All of the above also accept the colon or dot syntax (`KeySystem:Foo()` / `KeySy
 ## Full Example
 
 ```lua
-local KeySystem = loadstring(game:HttpGet("YOUR_LIBRARY_URL"))()
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/poikjgfd3/Ophyn-Space-Fix/refs/heads/main/library.luau"))()
 
 -- Optional global defaults
 KeySystem:SetNotifStyle("pill")
@@ -655,3 +655,4 @@ Extra:Paragraph({
 Ophyn Key System – single-file bundle.  
 Lucide icons via [Footagesus/Icons](https://github.com/Footagesus/Icons).  
 PandaAuth, Platoboost and Jnkie are third-party key services; you need your own accounts / service IDs.
+Original owner of the Ophyn.
