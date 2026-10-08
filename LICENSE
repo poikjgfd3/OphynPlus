@@ -1,24 +1,30 @@
-This is free and unencumbered software released into the public domain.
+Copyright (c) 2026 poikjgfd3
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this project and associated files (the "Project"), to use, copy, modify,
+merge, publish, distribute, and reupload the Project for any purpose, subject
+to the following conditions:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. Credit Required
+   Any redistribution, reupload, or public use of the Project, whether modified
+   or unmodified, must clearly credit the original creator:
+   poikjgfd3.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+2. No Claiming Ownership
+   Recipients may not claim authorship, ownership, or original creation of the
+   Project or any substantial portion of it.
 
-For more information, please refer to <https://unlicense.org>
+3. No Resale
+   The Project, whether modified or unmodified, may not be sold, licensed for a
+   fee, included in paid products, or otherwise used for direct commercial
+   resale without prior written permission from the original creator.
+
+4. Preservation of License
+   Any redistribution or reupload must include this license in its entirety.
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
