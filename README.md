@@ -654,5 +654,5 @@ Extra:Paragraph({
 
 Ophyn Key System – single-file bundle.  
 Lucide icons via [Footagesus/Icons](https://github.com/Footagesus/Icons).  
-PandaAuth, Platoboost and Jnkie are third-party key services; you need your own accounts / service IDs.
-Original owner of the Ophyn.
+PandaAuth, Platoboost and Jnkie are third-party key services; you need your own accounts / service IDs. <br>
+And for the original owner of the Ophyn.
