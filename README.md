@@ -3,6 +3,10 @@
 A polished, key-system UI library for Roblox scripts.  
 Supports local keys, **PandaAuth**, **Platoboost**, **Jnkie**, custom validators, keyless mode, themes, notifications, Discord/Website/Info cards, and a secondary tabbed page.
 
+![Preview1](profile.png)
+![Preview1](profile.png)
+![Preview1](profile.png)
+![Preview1](profile.png)
 ---
 
 ## Quick Start
