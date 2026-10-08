@@ -1,6 +1,6 @@
 # Ophyn Key System
 
-A polished, single-file key-system UI library for Roblox executors.  
+A polished, key-system UI library for Roblox scripts.  
 Supports local keys, **PandaAuth**, **Platoboost**, **Jnkie**, custom validators, keyless mode, themes, notifications, Discord/Website/Info cards, and a secondary tabbed page.
 
 ---
